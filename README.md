@@ -55,3 +55,5 @@ The model is trained on a dataset containing images of edible and poisonous mush
 - Accuracy above 70%
 
 
+ps. if u want the ai model .ipynb then contact me!
+
