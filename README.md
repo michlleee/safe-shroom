@@ -1,7 +1,7 @@
 # Safe Shroom
 
 This repository contains the code and resources for a deep learning-based Mushroom Image Classification AI. The model is designed to distinguish between edible and poisonous mushrooms using image inputs, providing users with an easy way to assess mushroom safety.
-
+Access the ai repository here! --> https://github.com/michlleee/SafeShroom-AI-model
 ## Features
 - Image classification for edible and poisonous mushrooms
 - Deep learning-based model trained on a labeled dataset
@@ -54,6 +54,4 @@ The model is trained on a dataset containing images of edible and poisonous mush
 - Trained using TensorFlow
 - Accuracy above 70%
 
-
-ps. if u want the ai model .ipynb then contact me!
 
